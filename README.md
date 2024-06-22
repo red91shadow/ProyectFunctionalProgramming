@@ -1,6 +1,6 @@
 # Proyecto de Dibujo de Formas en Java
 
-Autor: Joel Joshua Luna Grijlava
+Autor: Joel Joshua Luna Grijalva
 
 Este proyecto es una aplicación gráfica simple en Java que dibuja diferentes formas (cuadrado, triángulo, y círculo) en respuesta a la interacción del usuario. La aplicación sigue los principios de MVC (Model-View-Controller) y SOLID, y utiliza programación funcional en la medida de lo posible.
 
